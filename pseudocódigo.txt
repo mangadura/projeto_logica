@@ -1,1 +1,3 @@
-
+inicio 
+ crie uma variavel
+ adicione 100 pao
